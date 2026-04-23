@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "SH0WN",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "naples17.aternos.me",
     "port": 22088,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
