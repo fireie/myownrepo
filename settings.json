@@ -8,7 +8,7 @@
   "server": {
     "ip": "naples17.aternos.me",
     "port": 22088,
-    "version": "1.21.1",
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "Tullio.2905"
+      "enabled": false,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
