@@ -1,14 +1,14 @@
 {
-  "name": "AFK BOT",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "Notch",
+    "username": "Shownlivee",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "naples17.aternos.me",
     "port": 22088,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Tullio.2905"
     },
     "anti-afk": {
       "enabled": true,
